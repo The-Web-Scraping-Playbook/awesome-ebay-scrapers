@@ -24,7 +24,7 @@ Perfect for:
 ---
 
 ## 🧠 Ebay OpsKit
-> Find out everything you need to know to reliably scrape Ebay with our new tool: [ScrapeOps Kit](https://scrapeops.io/websites/ebay)
+> Find out everything you need to know to reliably scrape Ebay with our new tool: [Ops Kit](https://scrapeops.io/websites/ebay)
 
 This kit provides the blueprint for Ebay scraping operations:
 - **Overview:** Scraping Summary, Anti-Bots
@@ -99,7 +99,7 @@ This kit provides the blueprint for Ebay scraping operations:
 ---
 
 ## 🧠 Ebay Tutorials & How-Tos<a id="ebay-tutorials"></a>
-- 📘 [How to Scrape Ebay at Scale](https://scrapeops.io/web-scraping-playbook/how-to-scrape-ebay/)
+- 📘 [How to Scrape Ebay at Scale](https://scrapeops.io/websites/ebay/how-to-scrape-ebay)
 - 🔐 [Web Scraping Ebay Without Getting Blocked](https://scrapeops.io/web-scraping-playbook/web-scraping-without-getting-blocked/)
 - 🧪 [How to Use ScrapeOps Proxy Aggregator](https://scrapeops.io/docs/web-scraping-proxy-api-aggregator/quickstart/)
 
